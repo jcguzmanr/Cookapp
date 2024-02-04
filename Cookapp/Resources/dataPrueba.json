@@ -1,0 +1,199 @@
+[
+{
+  "title": "Cebiche Criollo",
+  "introduction": {
+    "text": "En este cebiche podemos utilizar todos los pescados mencionados en el cebiche clásico, pero también podemos usar jurel, caballa, pejerrey, anchoveta, bonito y otros pescados de sabor y carácter.",
+    "datos": "Hacemos una leche de tigre licuando diversos ingredientes para obtener un sabor característico."
+  },
+  "ingredients": [
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "unidades",
+      "name": "dientes de ajo",
+      "basicIngredient": "ajo",
+      "notes": ""
+    },
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "unidades",
+      "name": "ají limos",
+      "basicIngredient": "ají limo",
+      "notes": "o 1 rocoto"
+    },
+    {
+      "quantity": "1",
+      "normalizedQuantity": "1",
+      "scale": "unidad",
+      "name": "rama de apio",
+      "basicIngredient": "apio",
+      "notes": ""
+    },
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "rodajas",
+      "name": "rodajas de cebolla",
+      "basicIngredient": "cebolla",
+      "notes": ""
+    },
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "tallos",
+      "name": "tallos de culantro",
+      "basicIngredient": "culantro",
+      "notes": ""
+    },
+    {
+      "quantity": "50 gramos",
+      "normalizedQuantity": "50",
+      "scale": "gramos",
+      "name": "retazos y puntas de filete de pescado",
+      "basicIngredient": "pescado",
+      "notes": ""
+    },
+    {
+      "quantity": "5",
+      "normalizedQuantity": "5",
+      "scale": "unidades",
+      "name": "limones",
+      "basicIngredient": "limón",
+      "notes": "jugo"
+    },
+    {
+      "quantity": "al gusto",
+      "normalizedQuantity": "variable",
+      "scale": "",
+      "name": "agua o caldito suave para pescado",
+      "basicIngredient": "caldo de pescado",
+      "notes": "hecho con la cabeza y espinas del pescado que compro"
+    }
+  ],
+  "method": [
+    {
+      "step": 1,
+      "instruction": "Licuar los ingredientes para hacer la leche de tigre."
+    },
+    {
+      "step": 2,
+      "instruction": "Colar el licuado y añadirlo al pescado antes de comenzar a exprimir los limones."
+    },
+    {
+      "step": 3,
+      "instruction": "Si se usa caballa o bonito, exprimir todos los limones por separado, mezclar con el licuado y añadir al final."
+    },
+    {
+      "step": 4,
+      "instruction": "Servir inmediatamente sin necesidad de reposo."
+    }
+  ],
+  "chefs_notes": "La leche de tigre debe ser fresca para realzar los sabores del cebiche.",
+  "serving_suggestions": "Servir acompañado de los tradicionales choclo y camote.",
+  "extra_tip": "Utilizar las espinas y cabezas de pescado para hacer un caldo que se puede usar en la preparación del cebiche."
+}
+
+,
+
+{
+  "title": "Cebiche Criollo",
+  "introduction": {
+    "text": "En este cebiche podemos utilizar todos los pescados mencionados en el cebiche clásico, pero también podemos usar jurel, caballa, pejerrey, anchoveta, bonito y otros pescados de sabor y carácter.",
+    "datos": "Hacemos una leche de tigre licuando diversos ingredientes para obtener un sabor característico."
+  },
+  "ingredients": [
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "unidades",
+      "name": "dientes de ajo",
+      "basicIngredient": "ajo",
+      "notes": ""
+    },
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "unidades",
+      "name": "ají limos",
+      "basicIngredient": "ají limo",
+      "notes": "o 1 rocoto"
+    },
+    {
+      "quantity": "1",
+      "normalizedQuantity": "1",
+      "scale": "unidad",
+      "name": "rama de apio",
+      "basicIngredient": "apio",
+      "notes": ""
+    },
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "rodajas",
+      "name": "rodajas de cebolla",
+      "basicIngredient": "cebolla",
+      "notes": ""
+    },
+    {
+      "quantity": "2",
+      "normalizedQuantity": "2",
+      "scale": "tallos",
+      "name": "tallos de culantro",
+      "basicIngredient": "culantro",
+      "notes": ""
+    },
+    {
+      "quantity": "50 gramos",
+      "normalizedQuantity": "50",
+      "scale": "gramos",
+      "name": "retazos y puntas de filete de pescado",
+      "basicIngredient": "pescado",
+      "notes": ""
+    },
+    {
+      "quantity": "5",
+      "normalizedQuantity": "5",
+      "scale": "unidades",
+      "name": "limones",
+      "basicIngredient": "limón",
+      "notes": "jugo"
+    },
+    {
+      "quantity": "al gusto",
+      "normalizedQuantity": "variable",
+      "scale": "",
+      "name": "agua o caldito suave para pescado",
+      "basicIngredient": "caldo de pescado",
+      "notes": "hecho con la cabeza y espinas del pescado que compro"
+    }
+  ],
+  "method": [
+    {
+      "step": 1,
+      "instruction": "Licuar los ingredientes para hacer la leche de tigre."
+    },
+    {
+      "step": 2,
+      "instruction": "Colar el licuado y añadirlo al pescado antes de comenzar a exprimir los limones."
+    },
+    {
+      "step": 3,
+      "instruction": "Si se usa caballa o bonito, exprimir todos los limones por separado, mezclar con el licuado y añadir al final."
+    },
+    {
+      "step": 4,
+      "instruction": "Servir inmediatamente sin necesidad de reposo."
+    }
+  ],
+  "chefs_notes": "La leche de tigre debe ser fresca para realzar los sabores del cebiche.",
+  "serving_suggestions": "Servir acompañado de los tradicionales choclo y camote.",
+  "extra_tip": "Utilizar las espinas y cabezas de pescado para hacer un caldo que se puede usar en la preparación del cebiche."
+}
+
+
+
+
+
+
+]

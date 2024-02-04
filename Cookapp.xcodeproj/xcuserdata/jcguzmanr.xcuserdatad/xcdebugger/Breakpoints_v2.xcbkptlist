@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2BE59C1-D4EC-4E26-B502-2B19E21E942C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17E4684D-B282-4231-A90F-97D104ADFCF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cookapp/Helpers/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "cargarRecetas()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "509D057B-DF3D-4767-9D6E-F61004C176BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cookapp/Helpers/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "cargarRecetas()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cookapp/View/RecetasView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RecetasView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - cce7f8562420a000"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Cookapp.RecetasView.viewModel : Cookapp.RecetasViewModel"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/Cookapp/View/RecetasView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - 1b6a79b20581256d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cookapp.RecetasView.viewModel.getter : Cookapp.RecetasViewModel"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/Cookapp/View/RecetasView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - ae9d9274ac43a56e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cookapp.RecetasView.viewModel.setter : Cookapp.RecetasViewModel"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/Cookapp/View/RecetasView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - 889b81026c4c7499"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cookapp.RecetasView.viewModel.modify : Cookapp.RecetasViewModel"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/Cookapp/View/RecetasView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - bd72416435ce17c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cookapp.RecetasView.viewModel.modify : Cookapp.RecetasViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - 496d954329600c33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cookapp.RecetasView.$viewModel.getter : SwiftUI.ObservedObject&lt;Cookapp.RecetasViewModel&gt;.Wrapper"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/Cookapp/View/RecetasView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - 218735e7b59a83cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Cookapp.RecetasView.init(viewModel: Cookapp.RecetasViewModel, isPresenting: Swift.Bool) -&gt; Cookapp.RecetasView"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/Cookapp/View/RecetasView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  uuid = "579AF92E-D946-452F-85E5-4F07B01FC8AF - 218735e7b59a83cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Cookapp.RecetasView.init(viewModel: Cookapp.RecetasViewModel, isPresenting: Swift.Bool) -&gt; Cookapp.RecetasView"
+                  moduleName = "Cookapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jcguzmanr/Library/Mobile%20Documents/com~apple~CloudDocs/Apps/Cookapp/Cookapp/View/RecetasView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D18E9E06-3ED5-4C1A-B872-671EEA85282E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cookapp/View/RecetasView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "recetasFiltradas"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
